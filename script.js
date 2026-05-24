@@ -15,28 +15,28 @@
 const links = [
   {
     group: "GROUP 01",
-    name:  "University of Makati",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Shiloh Dynasty",
+    url:   "https://automata-sheloh-dynasty.vercel.app/"
   },
   {
     group: "GROUP 02",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Vibe Coders",
+    url:   "https://vibe-coders-automata.vercel.app/"
   },
   {
     group: "GROUP 03",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Enigma",
+    url:   "https://mission-control-xi-sable.vercel.app/"
   },
   {
     group: "GROUP 04",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Basket Barbarians",
+    url:   "https://automata-compilation-bb.vercel.app/"
   },
   {
     group: "GROUP 05",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Estudyandevs",
+    url:   "https://estudyandevs-automata.vercel.app/?brid=YWdncwHX9uSt-L7hLWWKvunCeprh"
   },
   {
     group: "GROUP 06",
@@ -52,29 +52,8 @@ const links = [
     group: "GROUP 08",
     name:  "Add Link Here",
     url:   "https://www.umak.edu.ph/"
-  },
-  {
-    group: "GROUP 09",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
-  },
-  {
-    group: "GROUP 10",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
-  },
-  {
-    group: "GROUP 11",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
-  },
-  {
-    group: "GROUP 12",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
   }
-];
-
+]
 /* ─────────────────────────────────────────────
    Build and inject cards
 ───────────────────────────────────────────── */

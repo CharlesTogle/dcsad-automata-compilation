@@ -15,7 +15,7 @@
 
   --card-radius:  18px;
   --grid-gap:     24px;
-  --cols:         4;
+  --cols:         3;
 }
 
 /* ── FONT ── */
@@ -75,15 +75,18 @@ body {
 .header-title {
   font-family: 'Valorant', sans-serif;
   font-size: 1.7rem;
+  font-weight: 900;
   letter-spacing: 6px;
   color: var(--gold-light);
-  text-shadow: 0 0 30px #C8972A88;
+  text-shadow: 0 0 30px #C8972A88, 0 2px 0 #00000066;
   line-height: 1;
+  -webkit-text-stroke: 0.5px var(--gold);
 }
 
 .header-sub {
   font-family: 'Valorant', sans-serif;
   font-size: 0.65rem;
+  font-weight: 700;
   letter-spacing: 4px;
   color: var(--text-dim);
 }
@@ -183,7 +186,7 @@ main {
 .card-label {
   position: absolute;
   bottom: 0; left: 0; right: 0;
-  padding: 14px 16px 16px;
+  padding: 18px 20px 22px;
   z-index: 5;
   display: flex;
   flex-direction: column;
@@ -192,19 +195,23 @@ main {
 
 .card-group {
   font-family: 'Valorant', sans-serif;
-  font-size: 0.52rem;
+  font-size: 1.08rem;
+  font-weight: 900;
   letter-spacing: 3.5px;
   color: var(--gold);
   text-transform: uppercase;
-  opacity: 0.85;
+  opacity: 0.95;
+  -webkit-text-stroke: 0.3px var(--gold-light);
 }
 
 .card-name {
   font-family: 'Valorant', sans-serif;
-  font-size: 0.82rem;
+  font-size: 1.76rem;
+  font-weight: 900;
   letter-spacing: 2px;
   color: var(--text-light);
-  text-shadow: 0 1px 8px #00000099;
+  text-shadow: 0 1px 8px #00000099, 0 0 20px #00000066;
+  -webkit-text-stroke: 0.4px #ffffff88;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -253,7 +260,7 @@ main {
 }
 
 /* ── RESPONSIVE ── */
-@media (max-width: 1100px) { :root { --cols: 3; } }
+@media (max-width: 1100px) { :root { --cols: 2; } }
 @media (max-width: 760px) {
   :root { --cols: 2; --grid-gap: 16px; }
   main, .site-header { padding-left: 20px; padding-right: 20px; }
