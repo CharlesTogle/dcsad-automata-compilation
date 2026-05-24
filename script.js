@@ -15,42 +15,42 @@
 const links = [
   {
     group: "GROUP 01",
-    name:  "Shiloh Dynasty",
-    url:   "https://automata-sheloh-dynasty.vercel.app/"
+    name:  "EstudyanDevs",
+    url:   "https://estudyandevs-automata.vercel.app/?brid=YWdncwHX9uSt-L7hLWWKvunCeprh"
   },
   {
     group: "GROUP 02",
+    name:  "Mot.Ai",
+    url:   "https://www.umak.edu.ph/"
+  },
+  {
+    group: "GROUP 03",
     name:  "Vibe Coders",
     url:   "https://vibe-coders-automata.vercel.app/"
   },
   {
-    group: "GROUP 03",
-    name:  "Group Name",
-    url:   "https://mission-control-xi-sable.vercel.app/"
-  },
-  {
     group: "GROUP 04",
-    name:  "Basket Barbarians",
-    url:   "https://automata-compilation-bb.vercel.app/"
+    name:  "Shiloh Dynasty",
+    url:   "https://automata-sheloh-dynasty.vercel.app/"
   },
   {
     group: "GROUP 05",
-    name:  "Group Name",
+    name:  "Aray Mo",
     url:   "https://automata-calculator.vercel.app/"
   },
   {
     group: "GROUP 06",
-    name:  "Estudyandevs",
-    url:   "https://estudyandevs-automata.vercel.app/?brid=YWdncwHX9uSt-L7hLWWKvunCeprh"
+    name:  "XLR8",
+    url:   "https://mission-control-xi-sable.vercel.app/"
   },
   {
     group: "GROUP 07",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Basket Barbarians",
+    url:   "https://automata-compilation-bb.vercel.app/"
   },
   {
     group: "GROUP 08",
-    name:  "Add Link Here",
+    name:  "LALA",
     url:   "https://www.umak.edu.ph/"
   }
 ]
