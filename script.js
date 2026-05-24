@@ -25,7 +25,7 @@ const links = [
   },
   {
     group: "GROUP 03",
-    name:  "Enigma",
+    name:  "Group Name",
     url:   "https://mission-control-xi-sable.vercel.app/"
   },
   {
@@ -35,13 +35,13 @@ const links = [
   },
   {
     group: "GROUP 05",
-    name:  "Estudyandevs",
-    url:   "https://estudyandevs-automata.vercel.app/?brid=YWdncwHX9uSt-L7hLWWKvunCeprh"
+    name:  "Group Name",
+    url:   "https://automata-calculator.vercel.app/"
   },
   {
     group: "GROUP 06",
-    name:  "Add Link Here",
-    url:   "https://www.umak.edu.ph/"
+    name:  "Estudyandevs",
+    url:   "https://estudyandevs-automata.vercel.app/?brid=YWdncwHX9uSt-L7hLWWKvunCeprh"
   },
   {
     group: "GROUP 07",
