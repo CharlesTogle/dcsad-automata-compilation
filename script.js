@@ -21,7 +21,7 @@ const links = [
   {
     group: "GROUP 02",
     name:  "Mot.Ai",
-    url:   "https://www.umak.edu.ph/"
+    url:   "https://automata-project-j6rn.onrender.com/"
   },
   {
     group: "GROUP 03",
