@@ -47,11 +47,6 @@ const links = [
     group: "GROUP 07",
     name:  "Basket Barbarians",
     url:   "https://automata-compilation-bb.vercel.app/"
-  },
-  {
-    group: "GROUP 08",
-    name:  "LALA",
-    url:   "https://www.umak.edu.ph/"
   }
 ]
 /* ─────────────────────────────────────────────
